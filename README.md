@@ -31,3 +31,6 @@ Run the scripts in the following order:
 1. **model.py** — Defines the ANN model architecture.  
 2. **train.py** — Loads data, trains the model, and saves the best model.  
 3. **predict.py** — Loads the saved model, performs predictions on test data, and visualizes results.
+
+https://youtu.be/-jerkc_tPsU
+https://youtu.be/vTEypU33zqo
